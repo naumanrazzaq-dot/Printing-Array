@@ -1,1 +1,1 @@
-# Printing-Array
+This is my first Array Printing Program
